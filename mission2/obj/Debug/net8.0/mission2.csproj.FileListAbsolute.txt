@@ -1,0 +1,14 @@
+/Users/ryan/RiderProjects/IS413/mission2/bin/Debug/net8.0/mission2
+/Users/ryan/RiderProjects/IS413/mission2/bin/Debug/net8.0/mission2.deps.json
+/Users/ryan/RiderProjects/IS413/mission2/bin/Debug/net8.0/mission2.runtimeconfig.json
+/Users/ryan/RiderProjects/IS413/mission2/bin/Debug/net8.0/mission2.dll
+/Users/ryan/RiderProjects/IS413/mission2/bin/Debug/net8.0/mission2.pdb
+/Users/ryan/RiderProjects/IS413/mission2/obj/Debug/net8.0/mission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryan/RiderProjects/IS413/mission2/obj/Debug/net8.0/mission2.AssemblyInfoInputs.cache
+/Users/ryan/RiderProjects/IS413/mission2/obj/Debug/net8.0/mission2.AssemblyInfo.cs
+/Users/ryan/RiderProjects/IS413/mission2/obj/Debug/net8.0/mission2.csproj.CoreCompileInputs.cache
+/Users/ryan/RiderProjects/IS413/mission2/obj/Debug/net8.0/mission2.dll
+/Users/ryan/RiderProjects/IS413/mission2/obj/Debug/net8.0/refint/mission2.dll
+/Users/ryan/RiderProjects/IS413/mission2/obj/Debug/net8.0/mission2.pdb
+/Users/ryan/RiderProjects/IS413/mission2/obj/Debug/net8.0/mission2.genruntimeconfig.cache
+/Users/ryan/RiderProjects/IS413/mission2/obj/Debug/net8.0/ref/mission2.dll
