@@ -1,0 +1,1 @@
+I hope that I'm allowed to have just one repo for the entire class. It would be unreasonable to do it any other way in my opinion haha. Each assignment will hopefully be able to be in it's own top level directory.
