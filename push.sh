@@ -1,3 +1,5 @@
 git add .
-git commit -m mission
+echo "Enter the commit message: "
+read commitMessage
+git commit -m "$commitMessage"
 git push origin main
