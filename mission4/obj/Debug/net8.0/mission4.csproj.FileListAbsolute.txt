@@ -1,0 +1,15 @@
+/Users/ryan/RiderProjects/IS413/mission4/bin/Debug/net8.0/mission4
+/Users/ryan/RiderProjects/IS413/mission4/bin/Debug/net8.0/mission4.deps.json
+/Users/ryan/RiderProjects/IS413/mission4/bin/Debug/net8.0/mission4.runtimeconfig.json
+/Users/ryan/RiderProjects/IS413/mission4/bin/Debug/net8.0/mission4.dll
+/Users/ryan/RiderProjects/IS413/mission4/bin/Debug/net8.0/mission4.pdb
+/Users/ryan/RiderProjects/IS413/mission4/obj/Debug/net8.0/mission4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryan/RiderProjects/IS413/mission4/obj/Debug/net8.0/mission4.AssemblyInfoInputs.cache
+/Users/ryan/RiderProjects/IS413/mission4/obj/Debug/net8.0/mission4.AssemblyInfo.cs
+/Users/ryan/RiderProjects/IS413/mission4/obj/Debug/net8.0/mission4.csproj.CoreCompileInputs.cache
+/Users/ryan/RiderProjects/IS413/mission4/obj/Debug/net8.0/mission4.sourcelink.json
+/Users/ryan/RiderProjects/IS413/mission4/obj/Debug/net8.0/mission4.dll
+/Users/ryan/RiderProjects/IS413/mission4/obj/Debug/net8.0/refint/mission4.dll
+/Users/ryan/RiderProjects/IS413/mission4/obj/Debug/net8.0/mission4.pdb
+/Users/ryan/RiderProjects/IS413/mission4/obj/Debug/net8.0/mission4.genruntimeconfig.cache
+/Users/ryan/RiderProjects/IS413/mission4/obj/Debug/net8.0/ref/mission4.dll
