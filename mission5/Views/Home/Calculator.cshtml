@@ -1,0 +1,24 @@
+@{
+    ViewData["Title"] = "Spikeball - Calculator";
+}
+<h1>Spikeball Coaching Calculator</h1>
+<p>Enter the number of hours you need coaching:</p>
+<input type="number" id="hours" min="1" />
+<p>Hourly Rate: <span id="rate">$50</span></p>
+<button id="calculate">Calculate</button>
+<p>Total Cost: <span id="total"></span></p>
+<a href="@Url.Action("Index", "Home")">Back to Home</a>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('#calculate').click(function() {
+            let hours = parseFloat($('#hours').val());
+            if (hours > 0) {
+                let total = hours * 50;
+                $('#total').text(`$${total}`);
+            } else {
+                alert('Please enter a valid number of hours.');
+            }
+        });
+    });
+</script>
