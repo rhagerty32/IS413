@@ -1,0 +1,33 @@
+@model IEnumerable<mission06_Hagerty.Models.Movie>
+
+@{
+    ViewData["Title"] = "Movie Collection";
+}
+
+<h1>Movie Collection</h1>
+<a asp-action="Create" class="btn btn-success">Add New Movie</a>
+
+<table>
+    <tr>
+        <th>Title</th>
+        <th>Category</th>
+        <th>Director</th>
+        <th>Year</th>
+        <th>Rating</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var movie in Model)
+    {
+        <tr>
+            <td>@movie.Title</td>
+            <td>@movie.Category</td>
+            <td>@movie.Director</td>
+            <td>@movie.Year</td>
+            <td>@movie.Rating</td>
+            <td>
+                <a href="@Url.Action("Edit", "Movies", new { id = movie.MovieId })">Edit</a> |
+                <a href="@Url.Action("Delete", "Movies", new { id = movie.MovieId })">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
