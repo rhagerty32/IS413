@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/ryan/RiderProjects/IS413/mission06_Hagerty/wwwroot/images/BaconsaleKate.jpg",
+      "PackagePath": "staticwebassets/images/BaconsaleKate.jpg"
+    },
+    {
+      "Id": "/Users/ryan/RiderProjects/IS413/mission06_Hagerty/wwwroot/images/JoelHiltonHeadshot.jpg",
+      "PackagePath": "staticwebassets/images/JoelHiltonHeadshot.jpg"
+    },
+    {
       "Id": "/Users/ryan/RiderProjects/IS413/mission06_Hagerty/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mission06_Hagerty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb09ae1dd1ec25de7677a2299552fbcaa6d41e48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56ccf9d1cb133d053f607b110cc057508672438f")]
 [assembly: System.Reflection.AssemblyProductAttribute("mission06_Hagerty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mission06_Hagerty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
