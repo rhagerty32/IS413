@@ -52,7 +52,7 @@ namespace mission06_Hagerty.Utilities
                     var movie = new Movie
                     {
                         Title = csv.GetField<string>("Title"),
-                        Category = csv.GetField<string>("Category"),
+                        CategoryId = csv.GetField<int>("CategoryId"),
                         Year = parsedYear, // Now safely converted
                         Director = csv.GetField<string>("Director"),
                         Rating = csv.GetField<string>("Rating"),

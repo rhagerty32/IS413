@@ -1,0 +1,15 @@
+@model mission06_Hagerty.Models.Movie
+
+@{
+    ViewData["Title"] = "Delete Movie";
+}
+
+<h2>Delete Movie</h2>
+
+<p>Are you sure you want to delete <strong>@Model.Title</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="id" value="@Model.MovieId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
